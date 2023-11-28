@@ -1,44 +1,48 @@
 # Python_Beginners_Project
-The README file contains details of the following projects:-
-
+The README file contains description of the following projects:-
+<br>
 1. Number Guessing Game:
 <br>
 •	Developed a Number Guessing Game between the intervals given by the user.
 <br>
-•	Module used: random, program runs on an infinite while loop until the user guesses the random number also printing its number of attempts.
+•	Module used: random
+<br>
+• Program runs on an infinite while loop until the user guesses the random number also printing its number of attempts.
 <br>
 <br>
-2. Quiz Game:
+3. Quiz Game:
 <br>
 •	Developed a Quiz Game in which the program asks predefined questions to the user.
 <br>
 •	The program uses the if-else statements block and as a result returns how many correct answers would the user give.
 <br>
 <br>
-3. Password Generator:
+4. Password Generator:
 <br>
 •	Developed a program for the generation of passwords that takes input as the length of a password.
 <br>
-•	Module used: random, define a function with a for loop that generates a random password using defined character values. 
+•	Module used: random
+• Define a function with a for loop that generates a random password using defined character values. 
 <br>
 <br>
-4. Rock Paper Scissors:
+6. Rock Paper Scissors:
 <br>
 •	Developed a game that is played between the user and the system.
 <br>
-•	Module used: random, stored rock, paper, scissors in a variable and generate random values in correspondence to the variable.
+•	Module used: random,
+• Declared rock, paper, scissors in a variable and generate random values in correspondence to the variable.
 <br>
 •	The program uses an infinite while loop with an if-else statement block until one of them becomes the winner or the match is drawn.
 <br>
 <br>
-5. Mad Libs Generator:
+8. Mad Libs Generator:
 <br>
 •	Developed a Mad Libs generator where one player prompts another for a list of words to substitute for blanks in a story.
 <br>
 •	We read a story from a text file and for the blank/mentioned places, we assigned/replaced values using a dictionary that operates on a for loop.
 <br>
 <br>
-6. Tic Tac Toe:
+9. Tic Tac Toe:
 <br>
 •	Developed a game Tic Tac Toe which takes input from users as numeric positions.
 <br>
