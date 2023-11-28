@@ -1,7 +1,6 @@
 # Python_Beginners_Project
 The README file contains details of the following projects:-
-<br>
-<br>
+
 1. Number Guessing Game:
 <br>
 •	Developed a Number Guessing Game between the intervals given by the user.
