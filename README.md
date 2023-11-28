@@ -1,2 +1,8 @@
 # Python_Beginners_Project
-Python projects for beginners
+The README file contains details of of the following project:-
+<br>
+1. Number Guessing Game:
+<br>
+•	Developed a Number Guessing Game between the intervals given by the user.
+<br>
+•	Module used: random, program runs on an infinite while loop until the user guesses the random number also printing its number of attempts.
