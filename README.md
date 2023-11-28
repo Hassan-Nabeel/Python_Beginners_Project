@@ -22,6 +22,7 @@ The README file contains description of the following projects:
 •	Developed a program for the generation of passwords that takes input as the length of a password.
 <br>
 •	Module used: random
+<br>
 • Define a function with a for loop that generates a random password using defined character values. 
 <br>
 <br>
@@ -30,6 +31,7 @@ The README file contains description of the following projects:
 •	Developed a game that is played between the user and the system.
 <br>
 •	Module used: random,
+<br>
 • Declared rock, paper, scissors in a variable and generate random values in correspondence to the variable.
 <br>
 •	The program uses an infinite while loop with an if-else statement block until one of them becomes the winner or the match is drawn.
