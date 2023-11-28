@@ -1,5 +1,5 @@
 # Python_Beginners_Project
-The README file contains description of the following projects:-
+The README file contains description of the following projects:
 <br>
 1. Number Guessing Game:
 <br>
