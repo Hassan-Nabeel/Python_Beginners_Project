@@ -9,14 +9,14 @@ The README file contains description of the following projects:
 • Program runs on an infinite while loop until the user guesses the random number and also printing its number of attempts.
 <br>
 <br>
-3. Quiz Game:
+2. Quiz Game:
 <br>
 •	Developed a Quiz Game in which the program asks predefined questions to the user.
 <br>
 •	The program uses the if-else statements block and as a result returns how many correct answers would the user give.
 <br>
 <br>
-4. Password Generator:
+3. Password Generator:
 <br>
 •	Developed a program for the generation of passwords that takes input as the length of a password.
 <br>
@@ -25,7 +25,7 @@ The README file contains description of the following projects:
 • Define a function with a for loop that generates a random password using defined character values. 
 <br>
 <br>
-6. Rock Paper Scissors:
+4. Rock Paper Scissors:
 <br>
 •	Developed a game that is played between the user and the system.
 <br>
@@ -36,14 +36,14 @@ The README file contains description of the following projects:
 •	The program uses an infinite while loop with an if-else statement block until one of them becomes the winner or the match is drawn.
 <br>
 <br>
-8. Mad Libs Generator:
+5. Mad Libs Generator:
 <br>
 •	Developed a Mad Libs generator where one player prompts another for a list of words to substitute for blanks in a story.
 <br>
 •	We read a story from a text file and for the blank/mentioned places, we assigned/replaced values using a dictionary that operates on a for loop.
 <br>
 <br>
-9. Tic Tac Toe:
+6. Tic Tac Toe:
 <br>
 •	Developed a game Tic Tac Toe which takes input from users as numeric positions.
 <br>
